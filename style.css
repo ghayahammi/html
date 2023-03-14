@@ -1,0 +1,26 @@
+h2{color:forestgreen;
+    font-family: roboto;
+	text-align:left;}
+
+h1{color:aqua;
+    font-family:'Courier New', Courier, monospace;
+	text-align:center}
+
+   nav{background-color:deeppink;}
+
+   p4{color:black;}
+
+   a{
+    color:black;
+   }
+
+   body,h2,table, #centered{
+    text-align: center;
+   }
+
+   
+
+   table{
+    margin: 0 auto
+   }
+   
